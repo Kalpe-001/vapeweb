@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: montserrat;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+}
+
+.navbar ul{
+    margin-left: auto;
+}
+.navbar li{
+    display: inline-block;
+}
